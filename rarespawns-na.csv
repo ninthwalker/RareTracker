@@ -1,109 +1,201 @@
-way,Boss,Wednesday,Thursday,Friday,Saturday,Sunday,Monday,Tuesday
-/way 49.7 32.7,Blood Queen Lana'thel,2:40:00 AM,,,,12:00:00 AM,10:40:00 PM,5:20:00 AM
-/way 57.1 30.3,Professor Putricide,3:00:00 AM,,,,12:20:00 AM,11:00:00 PM,5:40:00 AM
-/way 51.1 78.5,Lady Deathwhisper,3:20:00 AM,,,,12:40:00 AM,11:20:00 PM,6:00:00 AM
-/way 57.8 56.1,Skadi the Ruthless,3:40:00 AM,,,,1:00:00 AM,11:40:00 PM,6:20:00 AM
-/way 52.4 52.6,Ingvar the Plunderer,4:00:00 AM,12:00:00 AM,,,1:20:00 AM,,6:40:00 AM
-/way 54.0 44.7,Prince Keleseth,4:20:00 AM,12:20:00 AM,,,1:40:00 AM,,7:00:00 AM
-/way 64.8 22.1,The Black Knight,4:40:00 AM,12:40:00 AM,,,2:00:00 AM,,7:20:00 AM
-/way 70.7 38.4,Bronjahm,5:00:00 AM,1:00:00 AM,,,2:20:00 AM,,7:40:00 AM
-/way 47.2 66.1,Scourgelord Tyrannus,5:20:00 AM,1:20:00 AM,,12:00:00 AM,2:40:00 AM,,8:00:00 AM
-/way 58.6 72.5,Forgemaster Garfrost,5:40:00 AM,1:40:00 AM,,12:20:00 AM,3:00:00 AM,,8:20:00 AM
-/way 58.2 83.4,Marwyn,6:00:00 AM,2:00:00 AM,,12:40:00 AM,3:20:00 AM,,8:40:00 AM
-/way 50.2 87.9,Falric,6:20:00 AM,2:20:00 AM,,1:00:00 AM,3:40:00 AM,,9:00:00 AM
-/way 80.1 61.2,The Prophet Tharon'ja,12:00:00 AM,2:40:00 AM,,1:20:00 AM,4:00:00 AM,12:00:00 AM,9:20:00 AM
-/way 77.8 66.1,Novos the Summoner,12:20:00 AM,3:00:00 AM,,1:40:00 AM,4:20:00 AM,12:20:00 AM,9:40:00 AM
-/way 58.3 39.4,Trollgore,12:40:00 AM,3:20:00 AM,,2:00:00 AM,4:40:00 AM,12:40:00 AM,10:00:00 AM
-/way 67.5 58.0,Krik'thir the Gatewatcher,1:00:00 AM,3:40:00 AM,,2:20:00 AM,5:00:00 AM,1:00:00 AM,10:20:00 AM
-/way 29.1 62.7,Prince Taldaram,1:20:00 AM,4:00:00 AM,12:00:00 AM,2:40:00 AM,5:20:00 AM,1:20:00 AM,10:40:00 AM
-/way 44.2 49.1,Elder Nadox,1:40:00 AM,4:20:00 AM,12:20:00 AM,3:00:00 AM,5:40:00 AM,1:40:00 AM,11:00:00 AM
-/way 31.6 70.5,Noth the Plaguebringer,2:00:00 AM,4:40:00 AM,12:40:00 AM,3:20:00 AM,6:00:00 AM,2:00:00 AM,11:20:00 AM
-/way 34.4 68.5,Patchwerk CAVE ENTRANCE,2:20:00 AM,5:00:00 AM,1:00:00 AM,3:40:00 AM,6:20:00 AM,2:20:00 AM,11:40:00 AM
-/way 49.7 32.7,Blood Queen Lana'thel,9:20:00 AM,5:20:00 AM,9:20:00 PM,,,,
-/way 57.1 30.3,Professor Putricide,9:40:00 AM,5:40:00 AM,9:40:00 PM,,,,
-/way 51.1 78.5,Lady Deathwhisper,10:00:00 AM,6:00:00 AM,10:00:00 PM,,,,
-/way 57.8 56.1,Skadi the Ruthless,10:20:00 AM,6:20:00 AM,10:20:00 PM,,,,
-/way 52.4 52.6,Ingvar the Plunderer,10:40:00 AM,6:40:00 AM,10:40:00 PM,,,,
-/way 54.0 44.7,Prince Keleseth,11:00:00 AM,7:00:00 AM,11:00:00 PM,,,,
-/way 64.8 22.1,The Black Knight,11:20:00 AM,7:20:00 AM,11:20:00 PM,,,,
-/way 70.7 38.4,Bronjahm,11:40:00 AM,7:40:00 AM,11:40:00 PM,,,,
-/way 47.2 66.1,Scourgelord Tyrannus,12:00:00 PM,8:00:00 AM,,,,,
-/way 58.6 72.5,Forgemaster Garfrost,12:20:00 PM,8:20:00 AM,,,,,
-/way 58.2 83.4,Marwyn,12:40:00 PM,8:40:00 AM,,,,,
-/way 50.2 87.9,Falric,1:00:00 PM,9:00:00 AM,,,,,
-/way 49.7 32.7,Blood Queen Lana'thel,4:00:00 PM,,1:20:00 AM,4:00:00 AM,6:40:00 AM,2:40:00 AM,12:00:00 PM
-/way 57.1 30.3,Professor Putricide,4:20:00 PM,,1:40:00 AM,4:20:00 AM,7:00:00 AM,3:00:00 AM,12:20:00 PM
-/way 51.1 78.5,Lady Deathwhisper,4:40:00 PM,,2:00:00 AM,4:40:00 AM,7:20:00 AM,3:20:00 AM,12:40:00 PM
-/way 57.8 56.1,Skadi the Ruthless,5:00:00 PM,,2:20:00 AM,5:00:00 AM,7:40:00 AM,3:40:00 AM,1:00:00 PM
-/way 52.4 52.6,Ingvar the Plunderer,5:20:00 PM,,2:40:00 AM,5:20:00 AM,8:00:00 AM,4:00:00 AM,1:20:00 PM
-/way 54.0 44.7,Prince Keleseth,5:40:00 PM,,3:00:00 AM,5:40:00 AM,8:20:00 AM,4:20:00 AM,1:40:00 PM
-/way 64.8 22.1,The Black Knight,6:00:00 PM,,3:20:00 AM,6:00:00 AM,8:40:00 AM,4:40:00 AM,2:00:00 PM
-/way 70.7 38.4,Bronjahm,6:20:00 PM,,3:40:00 AM,6:20:00 AM,9:00:00 AM,5:00:00 AM,2:20:00 PM
-/way 47.2 66.1,Scourgelord Tyrannus,6:40:00 PM,,4:00:00 AM,6:40:00 AM,9:20:00 AM,5:20:00 AM,2:40:00 PM
-/way 58.6 72.5,Forgemaster Garfrost,7:00:00 PM,,4:20:00 AM,7:00:00 AM,9:40:00 AM,5:40:00 AM,3:00:00 PM
-/way 58.2 83.4,Marwyn,7:20:00 PM,,4:40:00 AM,7:20:00 AM,10:00:00 AM,6:00:00 AM,3:20:00 PM
-/way 50.2 87.9,Falric,7:40:00 PM,,5:00:00 AM,7:40:00 AM,10:20:00 AM,6:20:00 AM,3:40:00 PM
-/way 80.1 61.2,The Prophet Tharon'ja,6:40:00 AM,9:20:00 AM,5:20:00 AM,8:00:00 AM,10:40:00 AM,6:40:00 AM,4:00:00 PM
-/way 77.8 66.1,Novos the Summoner,7:00:00 AM,9:40:00 AM,5:40:00 AM,8:20:00 AM,11:00:00 AM,7:00:00 AM,4:20:00 PM
-/way 58.3 39.4,Trollgore,7:20:00 AM,10:00:00 AM,6:00:00 AM,8:40:00 AM,11:20:00 AM,7:20:00 AM,4:40:00 PM
-/way 67.5 58.0,Krik'thir the Gatewatcher,7:40:00 AM,10:20:00 AM,6:20:00 AM,9:00:00 AM,11:40:00 AM,7:40:00 AM,5:00:00 PM
-/way 29.1 62.7,Prince Taldaram,8:00:00 AM,10:40:00 AM,6:40:00 AM,9:20:00 AM,12:00:00 PM,8:00:00 AM,5:20:00 PM
-/way 44.2 49.1,Elder Nadox,8:20:00 AM,11:00:00 AM,7:00:00 AM,9:40:00 AM,12:20:00 PM,8:20:00 AM,5:40:00 PM
-/way 31.6 70.5,Noth the Plaguebringer,8:40:00 AM,11:20:00 AM,7:20:00 AM,10:00:00 AM,12:40:00 PM,8:40:00 AM,6:00:00 PM
-/way 34.4 68.5,Patchwerk CAVE ENTRANCE,9:00:00 AM,11:40:00 AM,7:40:00 AM,10:20:00 AM,1:00:00 PM,9:00:00 AM,6:20:00 PM
-/way 80.1 61.2,The Prophet Tharon'ja,1:20:00 PM,,,,,,
-/way 77.8 66.1,Novos the Summoner,1:40:00 PM,,,,,,
-/way 58.3 39.4,Trollgore,2:00:00 PM,,,,,,
-/way 67.5 58.0,Krik'thir the Gatewatcher,2:20:00 PM,,,,,,
-/way 29.1 62.7,Prince Taldaram,2:40:00 PM,,,,,,
-/way 44.2 49.1,Elder Nadox,3:00:00 PM,,,,,,
-/way 31.6 70.5,Noth the Plaguebringer,3:20:00 PM,,,,,,
-/way 34.4 68.5,Patchwerk CAVE ENTRANCE,3:40:00 PM,,,,,,
-/way 80.1 61.2,The Prophet Tharon'ja,8:00:00 PM,,,,,,
-/way 77.8 66.1,Novos the Summoner,8:20:00 PM,,,,,,
-/way 58.3 39.4,Trollgore,8:40:00 PM,,,,,,
-/way 67.5 58.0,Krik'thir the Gatewatcher,9:00:00 PM,,,,,,
-/way 29.1 62.7,Prince Taldaram,9:20:00 PM,,,,,,
-/way 44.2 49.1,Elder Nadox,9:40:00 PM,,,,,,
-/way 31.6 70.5,Noth the Plaguebringer,10:00:00 PM,,,,,,
-/way 34.4 68.5,Patchwerk CAVE ENTRANCE,10:20:00 PM,,,,,,
-/way 49.7 32.7,Blood Queen Lana'thel,10:40:00 PM,12:00:00 PM,8:00:00 AM,10:40:00 AM,1:20:00 PM,9:20:00 AM,6:40:00 PM
-/way 57.1 30.3,Professor Putricide,11:00:00 PM,12:20:00 PM,8:20:00 AM,11:00:00 AM,1:40:00 PM,9:40:00 AM,7:00:00 PM
-/way 51.1 78.5,Lady Deathwhisper,11:20:00 PM,12:40:00 PM,8:40:00 AM,11:20:00 AM,2:00:00 PM,10:00:00 AM,7:20:00 PM
-/way 57.8 56.1,Skadi the Ruthless,11:40:00 PM,1:00:00 PM,9:00:00 AM,11:40:00 AM,2:20:00 PM,10:20:00 AM,7:40:00 PM
-/way 52.4 52.6,Ingvar the Plunderer,,1:20:00 PM,9:20:00 AM,12:00:00 PM,2:40:00 PM,10:40:00 AM,8:00:00 PM
-/way 54.0 44.7,Prince Keleseth,,1:40:00 PM,9:40:00 AM,12:20:00 PM,3:00:00 PM,11:00:00 AM,8:20:00 PM
-/way 64.8 22.1,The Black Knight,,2:00:00 PM,10:00:00 AM,12:40:00 PM,3:20:00 PM,11:20:00 AM,8:40:00 PM
-/way 70.7 38.4,Bronjahm,,2:20:00 PM,10:20:00 AM,1:00:00 PM,3:40:00 PM,11:40:00 AM,9:00:00 PM
-/way 47.2 66.1,Scourgelord Tyrannus,,2:40:00 PM,10:40:00 AM,1:20:00 PM,4:00:00 PM,12:00:00 PM,9:20:00 PM
-/way 58.6 72.5,Forgemaster Garfrost,,3:00:00 PM,11:00:00 AM,1:40:00 PM,4:20:00 PM,12:20:00 PM,9:40:00 PM
-/way 58.2 83.4,Marwyn,,3:20:00 PM,11:20:00 AM,2:00:00 PM,4:40:00 PM,12:40:00 PM,10:00:00 PM
-/way 50.2 87.9,Falric,,3:40:00 PM,11:40:00 AM,2:20:00 PM,5:00:00 PM,1:00:00 PM,10:20:00 PM
-/way 80.1 61.2,The Prophet Tharon'ja,,4:00:00 PM,12:00:00 PM,2:40:00 PM,5:20:00 PM,1:20:00 PM,10:40:00 PM
-/way 77.8 66.1,Novos the Summoner,,4:20:00 PM,12:20:00 PM,3:00:00 PM,5:40:00 PM,1:40:00 PM,11:00:00 PM
-/way 58.3 39.4,Trollgore,,4:40:00 PM,12:40:00 PM,3:20:00 PM,6:00:00 PM,2:00:00 PM,11:20:00 PM
-/way 67.5 58.0,Krik'thir the Gatewatcher,,5:00:00 PM,1:00:00 PM,3:40:00 PM,6:20:00 PM,2:20:00 PM,11:40:00 PM
-/way 29.6 62.2,Prince Taldaram,,5:20:00 PM,1:20:00 PM,4:00:00 PM,6:40:00 PM,2:40:00 PM,
-/way 44.2 49.1,Elder Nadox,,5:40:00 PM,1:40:00 PM,4:20:00 PM,7:00:00 PM,3:00:00 PM,
-/way 31.6 70.5,Noth the Plaguebringer,,6:00:00 PM,2:00:00 PM,4:40:00 PM,7:20:00 PM,3:20:00 PM,
-/way 34.4 68.5,Patchwerk CAVE ENTRANCE,,6:20:00 PM,2:20:00 PM,5:00:00 PM,7:40:00 PM,3:40:00 PM,
-/way 49.7 32.7,Blood Queen Lana'thel,,6:40:00 PM,2:40:00 PM,5:20:00 PM,8:00:00 PM,4:00:00 PM,
-/way 57.1 30.3,Professor Putricide,,7:00:00 PM,3:00:00 PM,5:40:00 PM,8:20:00 PM,4:20:00 PM,
-/way 51.1 78.5,Lady Deathwhisper,,7:20:00 PM,3:20:00 PM,6:00:00 PM,8:40:00 PM,4:40:00 PM,
-/way 57.8 56.1,Skadi the Ruthless,,7:40:00 PM,3:40:00 PM,6:20:00 PM,9:00:00 PM,5:00:00 PM,
-/way 52.4 52.6,Ingvar the Plunderer,,8:00:00 PM,4:00:00 PM,6:40:00 PM,9:20:00 PM,5:20:00 PM,12:00:00 AM
-/way 54.0 44.7,Prince Keleseth,,8:20:00 PM,4:20:00 PM,7:00:00 PM,9:40:00 PM,5:40:00 PM,12:20:00 AM
-/way 64.8 22.1,The Black Knight,,8:40:00 PM,4:40:00 PM,7:20:00 PM,10:00:00 PM,6:00:00 PM,12:40:00 AM
-/way 70.7 38.4,Bronjahm,,9:00:00 PM,5:00:00 PM,7:40:00 PM,10:20:00 PM,6:20:00 PM,1:00:00 AM
-/way 47.2 66.1,Scourgelord Tyrannus,,9:20:00 PM,5:20:00 PM,8:00:00 PM,10:40:00 PM,6:40:00 PM,1:20:00 AM
-/way 58.6 72.5,Forgemaster Garfrost,,9:40:00 PM,5:40:00 PM,8:20:00 PM,11:00:00 PM,7:00:00 PM,1:40:00 AM
-/way 58.2 83.4,Marwyn,,10:00:00 PM,6:00:00 PM,8:40:00 PM,11:20:00 PM,7:20:00 PM,2:00:00 AM
-/way 50.2 87.9,Falric,,10:20:00 PM,6:20:00 PM,9:00:00 PM,11:40:00 PM,7:40:00 PM,2:20:00 AM
-/way 80.1 61.2,The Prophet Tharon'ja,,10:40:00 PM,6:40:00 PM,9:20:00 PM,,8:00:00 PM,2:40:00 AM
-/way 77.8 66.1,Novos the Summoner,,11:00:00 PM,7:00:00 PM,9:40:00 PM,,8:20:00 PM,3:00:00 AM
-/way 58.3 39.4,Trollgore,,11:20:00 PM,7:20:00 PM,10:00:00 PM,,8:40:00 PM,3:20:00 AM
-/way 67.5 58.0,Krik'thir the Gatewatcher,,11:40:00 PM,7:40:00 PM,10:20:00 PM,,9:00:00 PM,3:40:00 AM
-/way 29.6 62.2,Prince Taldaram,,,8:00:00 PM,10:40:00 PM,,9:20:00 PM,4:00:00 AM
-/way 44.2 49.1,Elder Nadox,,,8:20:00 PM,11:00:00 PM,,9:40:00 PM,4:20:00 AM
-/way 31.6 70.5,Noth the Plaguebringer,,,8:40:00 PM,11:20:00 PM,,10:00:00 PM,4:40:00 AM
-/way 34.4 68.5,Patchwerk CAVE ENTRANCE,,,9:00:00 PM,11:40:00 PM,,10:20:00 PM,5:00:00 AM
+way,Boss,Monday,Tuesday
+/way 49.7 32.7,Blood Queen Lana'thel,3:40:00 PM,
+/way 57.1 30.3,Professor Putricide,3:50:00 PM,
+/way 51.1 78.5,Lady Deathwhisper,4:00:00 PM,
+/way 57.8 56.1,Skadi the Ruthless,4:10:00 PM,
+/way 52.4 52.6,Ingvar the Plunderer,4:20:00 PM,
+/way 54.0 44.7,Prince Keleseth,4:30:00 PM,
+/way 64.8 22.1,The Black Knight,4:40:00 PM,
+/way 70.7 38.4,Bronjahm,4:50:00 PM,
+/way 47.2 66.1,Scourgelord Tyrannus,5:00:00 PM,
+/way 58.6 72.5,Forgemaster Garfrost,5:10:00 PM,
+/way 58.2 83.4,Marwyn,5:20:00 PM,
+/way 50.2 87.9,Falric,5:30:00 PM,
+/way 80.1 61.2,The Prophet Tharon'ja,5:40:00 PM,
+/way 77.8 66.1,Novos the Summoner,5:50:00 PM,
+/way 58.3 39.4,Trollgore,6:00:00 PM,
+/way 67.5 58.0,Krik'thir the Gatewatcher,6:10:00 PM,
+/way 29.1 62.7,Prince Taldaram,6:20:00 PM,
+/way 44.2 49.1,Elder Nadox,6:30:00 PM,
+/way 31.6 70.5,Noth the Plaguebringer,6:40:00 PM,
+/way 34.4 68.5,Patchwerk CAVE ENTRANCE,6:50:00 PM,
+/way 49.7 32.7,Blood Queen Lana'thel,7:00:00 PM,
+/way 57.1 30.3,Professor Putricide,7:10:00 PM,
+/way 51.1 78.5,Lady Deathwhisper,7:20:00 PM,
+/way 57.8 56.1,Skadi the Ruthless,7:30:00 PM,
+/way 52.4 52.6,Ingvar the Plunderer,7:40:00 PM,
+/way 54.0 44.7,Prince Keleseth,7:50:00 PM,
+/way 64.8 22.1,The Black Knight,8:00:00 PM,
+/way 70.7 38.4,Bronjahm,8:10:00 PM,
+/way 47.2 66.1,Scourgelord Tyrannus,8:20:00 PM,
+/way 58.6 72.5,Forgemaster Garfrost,8:30:00 PM,
+/way 58.2 83.4,Marwyn,8:40:00 PM,
+/way 50.2 87.9,Falric,8:50:00 PM,
+/way 80.1 61.2,The Prophet Tharon'ja,9:00:00 PM,
+/way 77.8 66.1,Novos the Summoner,9:10:00 PM,
+/way 58.3 39.4,Trollgore,9:20:00 PM,
+/way 67.5 58.0,Krik'thir the Gatewatcher,9:30:00 PM,
+/way 29.1 62.7,Prince Taldaram,9:40:00 PM,
+/way 44.2 49.1,Elder Nadox,9:50:00 PM,
+/way 31.6 70.5,Noth the Plaguebringer,10:00:00 PM,
+/way 34.4 68.5,Patchwerk CAVE ENTRANCE,10:10:00 PM,
+/way 49.7 32.7,Blood Queen Lana'thel,10:20:00 PM,
+/way 57.1 30.3,Professor Putricide,10:30:00 PM,
+/way 51.1 78.5,Lady Deathwhisper,10:40:00 PM,
+/way 57.8 56.1,Skadi the Ruthless,10:50:00 PM,
+/way 52.4 52.6,Ingvar the Plunderer,11:00:00 PM,
+/way 54.0 44.7,Prince Keleseth,11:10:00 PM,
+/way 64.8 22.1,The Black Knight,11:20:00 PM,
+/way 70.7 38.4,Bronjahm,11:30:00 PM,
+/way 47.2 66.1,Scourgelord Tyrannus,11:40:00 PM,
+/way 58.6 72.5,Forgemaster Garfrost,11:50:00 PM,
+/way 58.2 83.4,Marwyn,,12:00:00 AM
+/way 50.2 87.9,Falric,,12:10:00 AM
+/way 80.1 61.2,The Prophet Tharon'ja,,12:20:00 AM
+/way 77.8 66.1,Novos the Summoner,,12:30:00 AM
+/way 58.3 39.4,Trollgore,,12:40:00 AM
+/way 67.5 58.0,Krik'thir the Gatewatcher,,12:50:00 AM
+/way 29.1 62.7,Prince Taldaram,,1:00:00 AM
+/way 44.2 49.1,Elder Nadox,,1:10:00 AM
+/way 31.6 70.5,Noth the Plaguebringer,,1:20:00 AM
+/way 34.4 68.5,Patchwerk CAVE ENTRANCE,,1:30:00 AM
+/way 49.7 32.7,Blood Queen Lana'thel,,1:40:00 AM
+/way 57.1 30.3,Professor Putricide,,1:50:00 AM
+/way 51.1 78.5,Lady Deathwhisper,,2:00:00 AM
+/way 57.8 56.1,Skadi the Ruthless,,2:10:00 AM
+/way 52.4 52.6,Ingvar the Plunderer,,2:20:00 AM
+/way 54.0 44.7,Prince Keleseth,,2:30:00 AM
+/way 64.8 22.1,The Black Knight,,2:40:00 AM
+/way 70.7 38.4,Bronjahm,,2:50:00 AM
+/way 47.2 66.1,Scourgelord Tyrannus,,3:00:00 AM
+/way 58.6 72.5,Forgemaster Garfrost,,3:10:00 AM
+/way 58.2 83.4,Marwyn,,3:20:00 AM
+/way 50.2 87.9,Falric,,3:30:00 AM
+/way 80.1 61.2,The Prophet Tharon'ja,,3:40:00 AM
+/way 77.8 66.1,Novos the Summoner,,3:50:00 AM
+/way 58.3 39.4,Trollgore,,4:00:00 AM
+/way 67.5 58.0,Krik'thir the Gatewatcher,,4:10:00 AM
+/way 29.1 62.7,Prince Taldaram,,4:20:00 AM
+/way 44.2 49.1,Elder Nadox,,4:30:00 AM
+/way 31.6 70.5,Noth the Plaguebringer,,4:40:00 AM
+/way 34.4 68.5,Patchwerk CAVE ENTRANCE,,4:50:00 AM
+/way 49.7 32.7,Blood Queen Lana'thel,,5:00:00 AM
+/way 57.1 30.3,Professor Putricide,,5:10:00 AM
+/way 51.1 78.5,Lady Deathwhisper,,5:20:00 AM
+/way 57.8 56.1,Skadi the Ruthless,,5:30:00 AM
+/way 52.4 52.6,Ingvar the Plunderer,,5:40:00 AM
+/way 54.0 44.7,Prince Keleseth,,5:50:00 AM
+/way 64.8 22.1,The Black Knight,,6:00:00 AM
+/way 70.7 38.4,Bronjahm,,6:10:00 AM
+/way 47.2 66.1,Scourgelord Tyrannus,,6:20:00 AM
+/way 58.6 72.5,Forgemaster Garfrost,,6:30:00 AM
+/way 58.2 83.4,Marwyn,,6:40:00 AM
+/way 50.2 87.9,Falric,,6:50:00 AM
+/way 80.1 61.2,The Prophet Tharon'ja,,7:00:00 AM
+/way 77.8 66.1,Novos the Summoner,,7:10:00 AM
+/way 58.3 39.4,Trollgore,,7:20:00 AM
+/way 67.5 58.0,Krik'thir the Gatewatcher,,7:30:00 AM
+/way 29.1 62.7,Prince Taldaram,,7:40:00 AM
+/way 44.2 49.1,Elder Nadox,,7:50:00 AM
+/way 31.6 70.5,Noth the Plaguebringer,,8:00:00 AM
+/way 34.4 68.5,Patchwerk CAVE ENTRANCE,,8:10:00 AM
+/way 49.7 32.7,Blood Queen Lana'thel,,8:20:00 AM
+/way 57.1 30.3,Professor Putricide,,8:30:00 AM
+/way 51.1 78.5,Lady Deathwhisper,,8:40:00 AM
+/way 57.8 56.1,Skadi the Ruthless,,8:50:00 AM
+/way 52.4 52.6,Ingvar the Plunderer,,9:00:00 AM
+/way 54.0 44.7,Prince Keleseth,,9:10:00 AM
+/way 64.8 22.1,The Black Knight,,9:20:00 AM
+/way 70.7 38.4,Bronjahm,,9:30:00 AM
+/way 47.2 66.1,Scourgelord Tyrannus,,9:40:00 AM
+/way 58.6 72.5,Forgemaster Garfrost,,9:50:00 AM
+/way 58.2 83.4,Marwyn,,10:00:00 AM
+/way 50.2 87.9,Falric,,10:10:00 AM
+/way 80.1 61.2,The Prophet Tharon'ja,,10:20:00 AM
+/way 77.8 66.1,Novos the Summoner,,10:30:00 AM
+/way 58.3 39.4,Trollgore,,10:40:00 AM
+/way 67.5 58.0,Krik'thir the Gatewatcher,,10:50:00 AM
+/way 29.1 62.7,Prince Taldaram,,11:00:00 AM
+/way 44.2 49.1,Elder Nadox,,11:10:00 AM
+/way 31.6 70.5,Noth the Plaguebringer,,11:20:00 AM
+/way 34.4 68.5,Patchwerk CAVE ENTRANCE,,11:30:00 AM
+/way 49.7 32.7,Blood Queen Lana'thel,,11:40:00 AM
+/way 57.1 30.3,Professor Putricide,,11:50:00 AM
+/way 51.1 78.5,Lady Deathwhisper,,12:00:00 PM
+/way 57.8 56.1,Skadi the Ruthless,,12:10:00 PM
+/way 52.4 52.6,Ingvar the Plunderer,,12:20:00 PM
+/way 54.0 44.7,Prince Keleseth,,12:30:00 PM
+/way 64.8 22.1,The Black Knight,,12:40:00 PM
+/way 70.7 38.4,Bronjahm,,12:50:00 PM
+/way 47.2 66.1,Scourgelord Tyrannus,,1:00:00 PM
+/way 58.6 72.5,Forgemaster Garfrost,,1:10:00 PM
+/way 58.2 83.4,Marwyn,,1:20:00 PM
+/way 50.2 87.9,Falric,,1:30:00 PM
+/way 80.1 61.2,The Prophet Tharon'ja,,1:40:00 PM
+/way 77.8 66.1,Novos the Summoner,,1:50:00 PM
+/way 58.3 39.4,Trollgore,,2:00:00 PM
+/way 67.5 58.0,Krik'thir the Gatewatcher,,2:10:00 PM
+/way 29.1 62.7,Prince Taldaram,,2:20:00 PM
+/way 44.2 49.1,Elder Nadox,,2:30:00 PM
+/way 31.6 70.5,Noth the Plaguebringer,,2:40:00 PM
+/way 34.4 68.5,Patchwerk CAVE ENTRANCE,,2:50:00 PM
+/way 49.7 32.7,Blood Queen Lana'thel,,3:00:00 PM
+/way 57.1 30.3,Professor Putricide,,3:10:00 PM
+/way 51.1 78.5,Lady Deathwhisper,,3:20:00 PM
+/way 57.8 56.1,Skadi the Ruthless,,3:30:00 PM
+/way 52.4 52.6,Ingvar the Plunderer,,3:40:00 PM
+/way 54.0 44.7,Prince Keleseth,,3:50:00 PM
+/way 64.8 22.1,The Black Knight,,4:00:00 PM
+/way 70.7 38.4,Bronjahm,,4:10:00 PM
+/way 47.2 66.1,Scourgelord Tyrannus,,4:20:00 PM
+/way 58.6 72.5,Forgemaster Garfrost,,4:30:00 PM
+/way 58.2 83.4,Marwyn,,4:40:00 PM
+/way 50.2 87.9,Falric,,4:50:00 PM
+/way 80.1 61.2,The Prophet Tharon'ja,,5:00:00 PM
+/way 77.8 66.1,Novos the Summoner,,5:10:00 PM
+/way 58.3 39.4,Trollgore,,5:20:00 PM
+/way 67.5 58.0,Krik'thir the Gatewatcher,,5:30:00 PM
+/way 29.1 62.7,Prince Taldaram,,5:40:00 PM
+/way 44.2 49.1,Elder Nadox,,5:50:00 PM
+/way 31.6 70.5,Noth the Plaguebringer,,6:00:00 PM
+/way 34.4 68.5,Patchwerk CAVE ENTRANCE,,6:10:00 PM
+/way 49.7 32.7,Blood Queen Lana'thel,,6:20:00 PM
+/way 57.1 30.3,Professor Putricide,,6:30:00 PM
+/way 51.1 78.5,Lady Deathwhisper,,6:40:00 PM
+/way 57.8 56.1,Skadi the Ruthless,,6:50:00 PM
+/way 52.4 52.6,Ingvar the Plunderer,,7:00:00 PM
+/way 54.0 44.7,Prince Keleseth,,7:10:00 PM
+/way 64.8 22.1,The Black Knight,,7:20:00 PM
+/way 70.7 38.4,Bronjahm,,7:30:00 PM
+/way 47.2 66.1,Scourgelord Tyrannus,,7:40:00 PM
+/way 58.6 72.5,Forgemaster Garfrost,,7:50:00 PM
+/way 58.2 83.4,Marwyn,,8:00:00 PM
+/way 50.2 87.9,Falric,,8:10:00 PM
+/way 80.1 61.2,The Prophet Tharon'ja,,8:20:00 PM
+/way 77.8 66.1,Novos the Summoner,,8:30:00 PM
+/way 58.3 39.4,Trollgore,,8:40:00 PM
+/way 67.5 58.0,Krik'thir the Gatewatcher,,8:50:00 PM
+/way 29.1 62.7,Prince Taldaram,,9:00:00 PM
+/way 44.2 49.1,Elder Nadox,,9:10:00 PM
+/way 31.6 70.5,Noth the Plaguebringer,,9:20:00 PM
+/way 34.4 68.5,Patchwerk CAVE ENTRANCE,,9:30:00 PM
+/way 49.7 32.7,Blood Queen Lana'thel,,9:40:00 PM
+/way 57.1 30.3,Professor Putricide,,9:50:00 PM
+/way 51.1 78.5,Lady Deathwhisper,,10:00:00 PM
+/way 57.8 56.1,Skadi the Ruthless,,10:10:00 PM
+/way 52.4 52.6,Ingvar the Plunderer,,10:20:00 PM
+/way 54.0 44.7,Prince Keleseth,,10:30:00 PM
+/way 64.8 22.1,The Black Knight,,10:40:00 PM
+/way 70.7 38.4,Bronjahm,,10:50:00 PM
+/way 47.2 66.1,Scourgelord Tyrannus,,11:00:00 PM
+/way 58.6 72.5,Forgemaster Garfrost,,11:10:00 PM
+/way 58.2 83.4,Marwyn,,11:20:00 PM
+/way 50.2 87.9,Falric,,11:30:00 PM
+/way 80.1 61.2,The Prophet Tharon'ja,,11:40:00 PM
+/way 77.8 66.1,Novos the Summoner,,11:50:00 PM
+/way 58.3 39.4,Trollgore,,
+/way 67.5 58.0,Krik'thir the Gatewatcher,,
+/way 29.1 62.7,Prince Taldaram,,
+/way 44.2 49.1,Elder Nadox,,
+/way 31.6 70.5,Noth the Plaguebringer,,
+/way 34.4 68.5,Patchwerk CAVE ENTRANCE,,
